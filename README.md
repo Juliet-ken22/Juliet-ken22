@@ -32,9 +32,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://metrics.lecoq.io/Juliet-ken22?template=classic&base=header%2C%20activity%2C%20community&config_timezone=Africa%2FKampala" width="100%" alt="GitHub Metrics Stats" />
-</p>
+### 📊 GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=radical" width="48%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=radical" width="48%" />
+<br clear="both">
+
+### 🔥 Streak Stats
+![](https://streak-stats.demolab.com?user=juliet-ken22&theme=radical)
 
 ---
 
