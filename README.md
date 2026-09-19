@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true&cache_seconds=86400" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -72,8 +72,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliet-ken22&theme=nord&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/chatgpt?username=juliet-ken22&theme=nord" width="48%" alt="GitHub Activity Summary" />
 </p>
 
 <br />
@@ -85,6 +85,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:julietken972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" opacity="1" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
