@@ -15,7 +15,8 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://img.shields.io/github/followers/juliet-ken22?label=Followers&style=for-the-badge&color=87CEEB" alt="Followers" /><br/><br/>
+      <img src="https://img.shields.io/github/stars/juliet-ken22?label=Total%20Stars&style=for-the-badge&color=87CEEB" alt="Stars" />
     </td>
   </tr>
 </table>
@@ -69,11 +70,10 @@
 
 <br />
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/chatgpt?username=juliet-ken22&theme=nord" width="48%" alt="GitHub Activity Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliet-ken22&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <br />
@@ -81,7 +81,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/juliet-ken22">
+  <a href="https://github.com/Juliet-ken22">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:julietken972@gmail.com">
