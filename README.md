@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Hello!%20I'm%20Juliet%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20—%20Web%20%26%20Mobile&descAlignY=55&descScale=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Hello!%20I'm%20Juliet%20👋&fontSize=45&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>👩‍💻 About Me</h3>
       <ul>
         <li>💻 Full-stack developer building web and mobile apps with <b>React, Python (Django/Flask), and Node.js</b></li>
@@ -14,8 +14,8 @@
         <li>⚡ Fun fact: I code and concentrate better with music in my ears 🎧</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=default&hide_border=true" width="100%" alt="GitHub Stats" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -49,32 +49,20 @@
     <td width="50%" valign="top">
       <h3 align="center">🤖 EcoBudget AI</h3>
       <p>AI event-intelligence platform predicting spend and waste together, accessible via SMS, USSD, and voice.</p>
-      <p align="center">
-        <a href="https://github.com/juliet-ken22"><b>View Project »</b></a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛍️ Gluowy Living</h3>
       <p>E-commerce platform with tour booking, inventory management, and an ML-based sales-forecasting module.</p>
-      <p align="center">
-        <a href="https://github.com/juliet-ken22"><b>View Project »</b></a>
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🍕 Taste Budz</h3>
       <p>Centralized ordering & admin system for a multi-branch restaurant chain with digital menus and table reservations.</p>
-      <p align="center">
-        <a href="https://github.com/juliet-ken22"><b>View Project »</b></a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🥇 LinkUp</h3>
       <p>Hackathon-winning multilingual dating app with AI/LLM-powered translation for cross-language matching.</p>
-      <p align="center">
-        <a href="https://github.com/juliet-ken22"><b>View Project »</b></a>
-      </p>
     </td>
   </tr>
 </table>
@@ -84,8 +72,8 @@
 ### 📊 GitHub & Streak Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=juliet-ken22&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliet-ken22&theme=nord&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <br />
