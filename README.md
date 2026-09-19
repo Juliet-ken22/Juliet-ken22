@@ -72,8 +72,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliet-ken22&theme=nord&hide_border=true" width="48%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/chatgpt?username=juliet-ken22&theme=nord" width="48%" alt="Activity Chart" />
 </p>
 
 <br />
