@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliet-ken22&show_icons=true&theme=nord&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -69,11 +69,11 @@
 
 <br />
 
-### 📊 GitHub & Streak Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliet-ken22&theme=nord&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliet-ken22&theme=nord&hide_border=true" width="48%" alt="GitHub Activity Graph" />
 </p>
 
 <br />
