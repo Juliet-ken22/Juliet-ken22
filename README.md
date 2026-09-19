@@ -1,203 +1,215 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:4B1B5D,100:DA4DCA&height=200&section=header&text=Hello!%20I'm%20Juliet&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241332,50:6A1B9A,100:E040FB&height=220&section=header&text=Hello!%20I'm%20Juliet&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Web%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <table>
 <tr>
 
-<td width="30%" valign="top">
+<!-- LEFT COLUMN -->
 
-## About Me
+<td width="32%" valign="top">
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-DA4DCA?style=flat-square" />
+<h2>About Me</h2>
 
+<p>
 I'm a Full Stack Developer passionate about building practical web and mobile applications.
-
-I work across frontend, backend, databases and APIs, with a growing focus on **Artificial Intelligence and Automation**.
-
-<img src="https://img.shields.io/badge/Location-Kampala%2C%20Uganda-7B61FF?style=flat-square&logo=googlemaps&logoColor=white" />
-
----
-
-## Technical Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </p>
 
----
+<p>
+I work across frontend, backend, databases and APIs, with a growing focus on Artificial Intelligence and Automation.
+</p>
 
-## Contact
+<p>
+<b>Location:</b> Kampala, Uganda
+</p>
+
+<hr>
+
+<h2>Technical Skills</h2>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="42"/><br/>
+React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
+Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="42"/><br/>
+Django
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="42"/><br/>
+Flask
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br/>
+Node.js
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="42"/><br/>
+JavaScript
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="42"/><br/>
+Flutter
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
+MySQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="42"/><br/>
+Git
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="42"/><br/>
+GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="42"/><br/>
+Figma
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="42"/><br/>
+APIs
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>Email</h3>
 
 <a href="mailto:julietken972@gmail.com">
-<img src="https://img.shields.io/badge/Email-julietken972%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/julietken972%40gmail.com-E040FB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+<hr>
 
-## Fun Fact
+<h3>Fun Fact</h3>
 
-<img src="https://img.shields.io/badge/Music%20%2B%20Code-Better%20Focus-9B59B6?style=flat-square&logo=headphones&logoColor=white" />
-
+<p>
 I code and concentrate better with music in my ears.
+</p>
 
----
+<hr>
 
-## Connect With Me
-
-<p align="center">
+<h2>Connect With Me</h2>
 
 <a href="https://github.com/Juliet-ken22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 <a href="mailto:julietken972@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-E040FB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
 
 </td>
 
-<td width="70%" valign="top">
+<!-- RIGHT COLUMN -->
 
-## Featured Projects
+<td width="68%" valign="top">
 
-<a href="https://github.com/Juliet-ken22">
+<h2>Featured Projects</h2>
 
-<img src="https://img.shields.io/badge/EcoBudget%20AI-AI%20%7C%20Event%20Intelligence-DA4DCA?style=for-the-badge&logo=robot&logoColor=white" />
+<table>
+<tr>
+<td>
 
-</a>
+<h3>EcoBudget AI</h3>
 
-AI-powered event intelligence platform designed to help event organizers understand and manage event spending, waste and budget risks.
+AI-powered event intelligence platform that helps organizers understand and manage event spending and waste.
 
-<img src="https://img.shields.io/badge/AI-4B1B5D?style=flat-square" />
-<img src="https://img.shields.io/badge/Budget%20Intelligence-7B61FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Waste%20Prediction-DA4DCA?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Budget_Intelligence-E040FB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-9C27B0?style=flat-square"/>
 
----
+</td>
+</tr>
 
-<a href="https://gluowyliving.com/">
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Gluowy%20Living-E--Commerce-2EA043?style=for-the-badge&logo=leaf&logoColor=white" />
+<h3>Gluowy Living</h3>
 
-</a>
+E-commerce and business management platform featuring online shopping, tour booking, inventory management and AI/ML-based sales forecasting.
 
-E-commerce and business management platform featuring online shopping, tour booking, inventory management and an AI/ML-based sales forecasting module.
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-E040FB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-F6C344?style=flat-square" />
+</td>
+</tr>
 
----
+<tr>
+<td>
 
-<img src="https://img.shields.io/badge/Taste%20Budz-Restaurant%20Platform-F3274C?style=for-the-badge&logo=foodpanda&logoColor=white" />
+<h3>Taste Budz</h3>
 
 Centralized restaurant ordering and administration system supporting digital menus, online ordering, multiple branches and table reservations.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-6A1B9A?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-E040FB?style=flat-square"/>
 
----
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/LinkUp-Multilingual%20AI%20App-FF69B4?style=for-the-badge&logo=googletranslate&logoColor=white" />
+<tr>
+<td>
+
+<h3>LinkUp</h3>
 
 Multilingual social application featuring AI/LLM-powered translation to support communication across different languages.
 
-<img src="https://img.shields.io/badge/AI%20%2F%20LLM-9B59B6?style=flat-square" />
-<img src="https://img.shields.io/badge/Translation-4285F4?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-00BFA6?style=flat-square" />
-
----
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-</p>
-
----
-
-## GitHub Statistics
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Juliet-ken22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical" width="100%" />
+<img src="https://img.shields.io/badge/AI%2FLLM-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Translation-E040FB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multilingual-9C27B0?style=flat-square"/>
 
 </td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliet-ken22&layout=compact&hide_border=true&theme=radical" width="100%" />
-
-</td>
-
 </tr>
 </table>
 
----
+<h2>Tech Stack</h2>
 
-## Contribution Activity
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,flask,nodejs,flutter,dart,mysql,git,github,figma" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliet-ken22&theme=react-dark&hide_border=true&area=true" width="100%" />
+<hr>
 
----
-
-## GitHub Streak
+<h2>GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Juliet-ken22&theme=radical&hide_border=true" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Juliet-ken22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=E040FB&icon_color=E040FB&text_color=FFFFFF&bg_color=241332" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliet-ken22&layout=compact&hide_border=true&title_color=E040FB&text_color=FFFFFF&bg_color=241332" width="100%"/>
+
+</div>
+
+<h2>Streak Stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Juliet-ken22&theme=radical&hide_border=true&background=241332&ring=E040FB&fire=FF4081&currStreakLabel=E040FB" width="100%"/>
 
 </div>
 
@@ -208,6 +220,6 @@ Multilingual social application featuring AI/LLM-powered translation to support 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA4DCA,50:4B1B5D,100:141321&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,50:6A1B9A,100:241332&height=100&section=footer" width="100%"/>
 
 </div>
