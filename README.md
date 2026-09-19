@@ -1,45 +1,225 @@
-<h1 align="center">Hello! I'm Juliet 👋</h1>
-<p align="center"><i>Full Stack Developer — Web & Mobile</i></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/juliet-ken22"><img src="https://img.shields.io/github/followers/juliet-ken22?label=Follow&style=social" alt="GitHub followers"></a>
+# Hello! I'm Juliet 👋
+
+### Full Stack Developer — Web & Mobile
+
+<a href="https://github.com/Juliet-ken22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:julietken972@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I’m a Full Stack Developer focused on building practical web and mobile applications.
+
+- Full Stack development with React, JavaScript, Python, Django, Flask and Node.js
+- Building AI-powered and automation-focused solutions
+- Experienced in developing complete applications from UI to backend APIs and databases
+- Based in Kampala, Uganda
+- Interested in Artificial Intelligence, automation and intelligent systems
+- I enjoy turning ideas and designs into clean, functional applications
+
+**Email:** [julietken972@gmail.com](mailto:julietken972@gmail.com)
+
+---
+
+## Featured Projects
+
+### EcoBudget AI
+
+AI-powered event intelligence platform designed to help event organizers understand and manage:
+
+- Event spending
+- Event waste
+- Budget risks
+- AI-powered recommendations
+
+Supports multiple access channels including Web, SMS, USSD and Voice.
+
+---
+
+### Gluowy Living
+
+E-commerce and business management platform featuring:
+
+- Online shopping
+- Natural wellness products
+- Tour booking
+- Inventory management
+- AI/ML-based sales forecasting
+
+---
+
+### Taste Budz
+
+Centralized restaurant ordering and administration system featuring:
+
+- Digital menus
+- Online ordering
+- Multiple restaurant branches
+- Table reservations
+- Admin management
+
+---
+
+### LinkUp
+
+Multilingual social/dating application featuring:
+
+- Multilingual communication
+- AI/LLM-powered translation
+- Cross-language interaction
+- Modern user experience
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="50" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="50" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="50" />
+</a>
+
 </p>
 
-### 📝 About Me
-- 💻 Full-stack developer building web and mobile apps with **React, Python (Django/Flask), and Node.js**
-- 🔭 Currently working on **EcoBudget AI**, an AI event-intelligence platform predicting spend and waste together, reachable via SMS, USSD, and voice
-- 🏆 1st Place — Africa's Talking Hackathon, for **LinkUp**, a multilingual dating app with AI/LLM-based translation
-- 🌍 Based in Kampala, Uganda — I love turning mockups into clean, working interfaces
-- 📫 Reach me at julietken972@gmail.com
-- ⚡ Fun fact: I code and concentrate better with music in my ears 🎧
+### Backend
 
-### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="left">
 
-### 🚀 Featured Projects
-- **[EcoBudget AI](#)** — AI event-intelligence platform predicting spend and waste together, accessible via SMS, USSD, and voice
-- **[Gluowy Living](#)** — E-commerce platform with tour booking, inventory management, and an ML-based sales-forecasting module
-- **[Taste Budz](#)** — Centralized ordering & admin system for a multi-branch restaurant chain, with digital menus and table reservations
-- **[LinkUp](#)** — 🥇 Hackathon-winning multilingual dating app with AI/LLM-powered translation for cross-language matching and chat
-- **Book Management System** — A book search/add/delete/read app, built separately in vanilla JS and React
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50" />
+</a>
 
-### 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=juliet-ken22&show_icons=true&theme=radical" width="48%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-ken22&layout=compact&theme=radical" width="48%" />
-<br clear="both">
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="50" />
+</a>
 
-### 🔥 Streak Stats
-![](https://streak-stats.demolab.com?user=juliet-ken22&theme=radical)
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" width="50" />
+</a>
 
-### 🌐 Connect with Me
-<p>
-  <a href="https://github.com/juliet-ken22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:julietken972@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+</a>
+
 </p>
+
+### Mobile & Database
+
+<p align="left">
+
+<a href="https://flutter.dev/">
+<img src="https://skillicons.dev/icons?i=flutter" width="50" />
+</a>
+
+<a href="https://dart.dev/">
+<img src="https://skillicons.dev/icons?i=dart" width="50" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" />
+</a>
+
+</p>
+
+### Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50" />
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" width="50" />
+</a>
+
+<a href="https://postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="50" />
+</a>
+
+</p>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Juliet-ken22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliet-ken22&layout=compact&hide_border=true&theme=radical" width="48%" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliet-ken22&theme=react-dark&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Juliet-ken22&theme=radical&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Juliet-ken22">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:julietken972@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building practical solutions with code.
+
+</div>
