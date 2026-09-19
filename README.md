@@ -164,18 +164,20 @@ Multilingual social application featuring AI/LLM-powered translation to support 
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juliet-ken22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juliet-ken22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical&cache_seconds=86400" width="100%" alt="GitHub Stats" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliet-ken22&layout=compact&hide_border=true&theme=radical" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juliet-ken22&layout=compact&hide_border=true&theme=radical&cache_seconds=86400" width="100%" alt="Top Languages" />
 
 </td>
 
@@ -186,7 +188,7 @@ Multilingual social application featuring AI/LLM-powered translation to support 
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliet-ken22&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/87CEEB/Juliet-ken22" width="100%" alt="Juliet's Contribution Activity Chart" />
 
 ---
 
